@@ -18,7 +18,7 @@
        "description": "Intro",
        "mediaUrl": "https://i.imgur.com/RoIkhnB.jpg",     
 "source": "image",
-       "link": "https://www.curedao.org/blog/optomitron"  }
+       "link": "https://www.curedao.org/blog/optomitron"}
 ],
 "deleted":false,
 "primaryColor":"#32236f",
@@ -31,6 +31,6 @@
 "website":"https://www.curedao.org/",
 "tokenDescription":"",
 "tokenTradeLink":"",
-"tags":["Ecosystems", "Data Storage", "Publishing", "Decentralized biotech","Decentralized Computing"]
+"tags":["Ecosystems", "Data Storage", "Publishing", "Decentralized biotech","Decentralized computing"]
   
 }
