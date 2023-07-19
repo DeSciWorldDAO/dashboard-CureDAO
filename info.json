@@ -12,12 +12,13 @@
        "link": "https://uploads-ssl.webflow.com/61f4b7c99c4bc02769eb5cb8/6228f14b3e9e0bdd726e4380_platform-diagram-dark-skinny.svg"
    },  {"name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://i.imgur.com/fuCnkYm.png",        "source": "image",
+       "mediaUrl": "https://i.imgur.com/fuCnkYm.png",        
+       "source": "image",
        "link": "https://www.curedao.org/blog/outcome-labels-plugin"  },
  {"name": "Intro",
        "description": "Intro",
        "mediaUrl": "https://i.imgur.com/RoIkhnB.jpg",     
-"source": "image",
+        "source": "image",
        "link": "https://www.curedao.org/blog/optomitron"}
 ],
 "deleted":false,
@@ -31,6 +32,6 @@
 "website":"https://www.curedao.org/",
 "tokenDescription":"",
 "tokenTradeLink":"",
-"tags":["Ecosystems", "Data Storage", "Publishing", "Decentralized biotech","Decentralized computing"]
+"tags":["Ecosystems", "Data Storage", "Publishing", "Decentralized biotech"]
   
 }
